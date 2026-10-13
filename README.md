@@ -1,1 +1,1 @@
-# KLHB-Java-Sem-End-Hackathon
+# KLHB-Java-End-Sem-Hackathon
